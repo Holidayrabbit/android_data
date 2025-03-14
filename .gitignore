@@ -1,0 +1,50 @@
+# 编译生成的文件
+*.apk
+*.ap_
+*.dex
+*.class
+
+# 构建目录
+bin/
+gen/
+out/
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+
+# 日志文件
+*.log
+
+# Android Studio导航编辑器临时文件
+.navigation/
+
+# Android Studio captures文件夹
+captures/
+
+# Keystore文件
+*.jks
+*.keystore
+
+# 外部原生构建文件夹
+.externalNativeBuild/
+.cxx/
+
+# Google服务配置文件
+google-services.json
+
+# 数据文件
+*.npz
+*.npy
+*.csv
+*.json
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
