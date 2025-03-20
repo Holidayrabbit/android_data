@@ -48,3 +48,9 @@ google-services.json
 # 操作系统文件
 .DS_Store
 Thumbs.db
+
+.env
+
+mysql_user_info.txt
+
+DeepIntent/
